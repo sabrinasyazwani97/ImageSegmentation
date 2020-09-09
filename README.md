@@ -1,5 +1,5 @@
 # This is the project README file
-PROJECT TITLE: Image Segmentation
+PROJECT TITLE: Image Segmentation 
 
 PURPOSE OF PROJECT: Visual Image Processing Assignment
 
@@ -99,3 +99,5 @@ using the numpy function numpy.clip(a, a_min, a_max, out=None) where
 * a_min: Minimum value. 
 * a_max: Maximum value. 
 * out: Results will be placed in this array.
+
+# Reminder: This project only contain the segmentImage() function. You may need to create your own main function.
